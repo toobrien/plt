@@ -1,0 +1,5 @@
+normalized symbol lookup            high
+fault detection / tolerance         med
+storage                             low
+order management                    low
+console                             low
